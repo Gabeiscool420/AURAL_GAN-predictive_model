@@ -1,5 +1,8 @@
 # AURAL_GAN+predictive_model
 
+(Discord[https://discord.gg/EQDvjGT7])
+
+
 This project aims to transform low-quality phone recordings into professional-quality audio using a Generative Adversarial Network (GAN). The system is designed to work with acoustic guitar recordings, but it can be adapted to work with other instruments.
 
 The system works in two main stages:
