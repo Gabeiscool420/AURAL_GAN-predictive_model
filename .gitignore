@@ -1,0 +1,13 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+logs/
+
+# Models
+models/
+
+# Data
+acoustic_guitar/
